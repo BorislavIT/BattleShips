@@ -1810,9 +1810,9 @@ void PrintBattleground(char battleground[rows][columns])
 		{
 			if (battleground[i][j] != NULL)
 			{
-				if (battleground[i][j] == 'E')
+				if (battleground[i][j] == 'E' || battleground[i][j] == 'C' || battleground[i][j] == 'V' || battleground[i][j] == 'N' || battleground[i][j] == 'B')
 				{
-					printf_s("  '%c'  ", battleground[i][j]);
+					printf_s("   *   ");
 				}
 				else
 				{
