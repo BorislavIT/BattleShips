@@ -4,7 +4,7 @@
 2. Download the zip file.
 3. Open BattleShips.vcxproj.
 4. Open up the BattleShips.c file in visual studio.
-5. Hit ctrl + f5 or go click debug - start without debugging.
+5. Hit ctrl + f5 or head over to the top panel and click debug -> start without debugging.
 6. Follow instructions given from the console.
 7. Have fun and hit me up with your thoughts!
 
