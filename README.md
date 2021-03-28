@@ -1,4 +1,3 @@
-# Kursova-Rabota-1
 # Instructions in order to start the project:
 1. You must have visual studio and c++ installed on your computer.
 2. Download the zip file.
